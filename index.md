@@ -20,9 +20,6 @@ This is a project based course focusing on the design and implementation of syst
 Instructor
 : [Kenton Murray](http://www.kentonmurray.com) (<kenton@jhu.edu>)
 
-TA
-: N/A
-
 Office hours
 : By Appointment
 : Thursdays 3-4pm
