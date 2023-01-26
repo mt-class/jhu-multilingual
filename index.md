@@ -1,9 +1,9 @@
 ---
 layout: default
-img: cover
+img: dalle1
 img_link: http://www.statmt.org/book/
 title: Machine Translation
-img2: nmt-book.jpg
+img2: dalle2
 img2_link: http://www.statmt.org/nmt-book/
 active_tab: main_page
 ---
@@ -15,7 +15,7 @@ EN 601.764 Advanced NLP: Multilingual methods
 : [Computer Science Department](http://www.cs.jhu.edu/)
 : [Johns Hopkins University](http://www.jhu.edu/)
 
-This is a project based course focusing on the design and implementation of systems that scale Natural Language Processing methods beyond English. The course will cover both multilingual and cross-lingual methods with an emphasis on zero-shot and few-shot approaches, as well as ‘silver’ dataset creation. Modules will include Cross-Lingual Information Extraction \& Semantics, Cross-Language Information Retrieval, Multilingual Question Answering, Multilingual Structured Prediction, Multilingual Automatic Speech Recognition, as well as other non-English centric NLP methods. Students will be expected to work in small groups and pick from one of the modules to create a model based on state-of-the-art methods covered in the class. The course will be roughly two-thirds lecture based and one-third students presenting project updates periodically throughout the semester.
+This is a project based course focusing on the design and implementation of systems that scale Natural Language Processing methods beyond English. The course will cover both multilingual and cross-lingual methods with an emphasis on zero-shot and few-shot approaches, as well as ‘silver’ dataset creation. Modules will include Cross-Lingual Information Extraction & Semantics, Cross-Language Information Retrieval, Multilingual Question Answering, Multilingual Structured Prediction, Multilingual Automatic Speech Recognition, as well as other non-English centric NLP methods. Students will be expected to work in small groups and pick from one of the modules to create a model based on state-of-the-art methods covered in the class. The course will be roughly two-thirds lecture based and one-third students presenting project updates periodically throughout the semester.
 
 Instructor
 : [Kenton Murray](http://www.kentonmurray.com) (<kenton@jhu.edu>)
