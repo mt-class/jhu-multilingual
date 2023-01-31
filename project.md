@@ -191,23 +191,6 @@ of the pipeline, or as a baseline. However, overly translation focused projects
 will be discouraged. We will make note of projects that rely too much on MT
 during the proposal and interim reports so that groups have a chance to correct
 course.
-<!--
-* Extensions to existing neural machine translation systems
-* Analysis and visualization of machine translation systems
-* Advanced decoding algorithms.
-* Principled methods for incorporating non-parallel data 
-  (e.g., dictionaries, grammars, or thesauri) into translation models.
-* Aspects of corpus crawling
-  * Document alignment
-  * Sentence alignment
-  * Corpus cleaning
-* [Interactive machine translation](http://www.casmacat.eu/) that assists human translators.
-* Experiment with different data conditions (social media text, speech, out-of-domain)
-* Post-processing MT output (e.g., applying correct capitalization, removing unnecessary spaces,
-  combining compounds)
-* Pushing further on one of the homeworks, say by incorporating more advanced techniques and more
-  data.
-* [Writing your own MT class assignment](http://mt-class.org/penn/project.html) -->
 
 Group Work
 ----------
