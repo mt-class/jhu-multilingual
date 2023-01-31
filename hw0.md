@@ -42,7 +42,7 @@ Tasks
 -----
 
 The assignment steps are broken down as follows:
-* Train GIZA++ using bitext.en and bitext.sv
+* Train GIZA++ using [bitext.en](./hw0/bitext.en) and [bitext.sv](./hw0/bitext.sv)
 * Use the word alignments from GIZA++ to project POS labels from English into Swedish
 * Automatically generate new Swedish data and project labels
 * Propose and implement two improvements to the pipeline
@@ -70,7 +70,7 @@ Project POS Alignments
 ======================
 
 We have manually labeled part-of-speech tags for the first 3176 sentences of the English bitext.
-These gold alignments can be found here: .
+These gold tags can be found here: [en_lines-ud-train.conllu](./hw0/en_lines-ud-train.conllu).
 The file format is in the CoNLL-U format. The 4th column contains the manually
 annotated POS Tag.
 Use the alignment files from the previous step to project the tag onto the Swedish tokens.
@@ -85,7 +85,7 @@ DELIVERABLES:
 Generate New Data
 =================
 
-We have 1032 lines of new English data that we want to project into Swedish here: .
+We have 1032 lines of new English data that we want to project into Swedish here: [dev_pos_bitext.en](./hw0/dev_pos_bitext.en).
 Translate it into Swedish and re-run the first two steps. You can do this by
 concatenating the 1032 lines onto the end of your bitexts. You can use any automatic
 machine translation system for the transforming the raw English text into Swedish.
@@ -101,7 +101,7 @@ DELIVERABLES:
 Propose Improvements
 ====================
 
-There are a lot of ways that this could be improved. This could be from better alignment models (IBM Models 5, HMM, Awesome Align), 
+There are a lot of ways that this could be improved. This could be from better alignment models (IBM Models 5, [HMM](https://aclanthology.org/C96-2141.pdf), [AWESOME Align](https://github.com/neulab/awesome-align)), 
 from data augmentation, dataset cleaning, etc. Propose and implement 2 methods.
 
 DELIVERABLES:
