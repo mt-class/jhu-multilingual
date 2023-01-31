@@ -2,7 +2,7 @@
 layout: default
 img: dalle1.png
 img_link: http://www.statmt.org/book/
-title: Machine Translation
+title: Multilingual NLP
 img2: dalle2.png
 img2_link: http://www.statmt.org/nmt-book/
 active_tab: main_page
