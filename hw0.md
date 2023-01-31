@@ -9,7 +9,7 @@ active_tab: main_page
 ---
 
 Silver Dataset Creation
------------------------
+=======================
 
 Note: Start early! Some of these methods may take a while to run on your hardware and shared resources within the department
 may be limited near the due date!
@@ -17,7 +17,7 @@ may be limited near the due date!
 One of the major challenges with Multilingual NLP is the lack of resources in languages outside of English. An effective and popular way to deal with this is through "silver" datasets. These are automatically generated using various methods and algorithms from the field that leverage "gold" datasets (frequently available only in English). The goal of this assignment is to learn how to create a silver dataset using statistical word alignment with word-level English gold annotions. To be explicit, "gold" datasets are taken to be ground-truth and normally manually annotated by humans. These are assumed to be correct --- as humanly possible. Silver datasets are synthetically generated and attempt to create labels using automatic methods.
 
 Multilingual Part-of-Speech Tagging
-===================================
+-----------------------------------
 
 Part-of-speech tagging (POS) is a task where the words in a corpus are marekd by their corresponding speech tag (nouns, verbs, etc._.
 In general, automatic POS taggers make use of labeled data from treebanks. These are expensive to create and while many efforts
@@ -28,7 +28,7 @@ treebanks exist, you are NOT ALLOWED to use them in this assignment. This is in 
 found for many NLP tasks in the majority of languages.
 
 Word-Alignment
-==============
+--------------
 
 We will make use of statistical word-aligners - namely the IBM models ([Brown et al., 1993](https://aclanthology.org/J93-2003.pdf)).
 We did not cover this in depth in class because most people said that they had seen this before (and even implemented it).
@@ -39,7 +39,7 @@ during the last millenium. It is available on GitHub: [GIZA++](https://github.co
 it are in this [README](https://github.com/moses-smt/giza-pp/blob/master/GIZA%2B%2B-v2/README).
 
 Tasks
------
+=====
 
 The assignment steps are broken down as follows:
 * Train GIZA++ using [bitext.en](./hw0/bitext.en) and [bitext.sv](./hw0/bitext.sv)
@@ -49,7 +49,7 @@ The assignment steps are broken down as follows:
 * Write-up results and discuss pitfalls as well as why things fail
 
 Train GIZA++
-============
+------------
 
 The first step is to run GIZA++ on the provided bitexts ([EN](./hw0/bitext.en) and [SV](./hw0/bitext.sv)). Follow the instructions from the repo above.
 The format should be three lines for each example. For instance, a French-English example from GIZA++ looks like this:
@@ -67,7 +67,7 @@ DELIVERABLES:
 
 
 Project POS Alignments
-======================
+----------------------
 
 We have manually labeled part-of-speech tags for the first 3176 sentences of the English bitext.
 These gold tags can be found here: [en_lines-ud-train.conllu](./hw0/en_lines-ud-train.conllu).
@@ -83,7 +83,7 @@ DELIVERABLES:
 * CoNLL-U file for IBM Model 4 Alignments (15 points)
 
 Generate New Data
-=================
+-----------------
 
 We have 1032 lines of new English data that we want to project into Swedish here: [dev_pos_bitext.en](./hw0/dev_pos_bitext.en) 
 and CoNLL-U file here: [en_lines-ud-dev.conllu](./hw0/en_lines-ud-dev.conllu).
@@ -100,7 +100,7 @@ DELIVERABLES:
 * Project English alignments from this file: onto your new Silver Swedish dataset and return the 1032 sentences in a CoNLL-U format (15 points)
 
 Propose Improvements
-====================
+--------------------
 
 There are a lot of ways that this could be improved. This could be from better alignment models (IBM Models 5, [HMM](https://aclanthology.org/C96-2141.pdf), [AWESOME Align](https://github.com/neulab/awesome-align)), 
 from data augmentation, dataset cleaning, etc. Propose and implement 2 methods.
