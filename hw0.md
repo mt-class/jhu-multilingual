@@ -51,7 +51,7 @@ The assignment steps are broken down as follows:
 Train GIZA++
 ============
 
-The first step is to run GIZA++ on the provided bitexts (EN and SV). Follow the instructions from the repo above.
+The first step is to run GIZA++ on the provided bitexts ([EN](./hw0/bitext.en) and [SV](./hw0/bitext.sv)). Follow the instructions from the repo above.
 The format should be three lines for each example. For instance, a French-English example from GIZA++ looks like this:
 
 "# Sentence pair (1)
