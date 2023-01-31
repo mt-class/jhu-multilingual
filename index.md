@@ -27,6 +27,9 @@ Office hours
 Method of Instruction
 : The course will primarily be lecture and discussion based. Students will be expected to participate in active discussions of the course material. However, the majority of the instruction will be lectures and outside presentations. Students will be presenting project proposals, mid-point status updates, and final presentations. 
 
+Piazza
+: Due to popular request, we will use Piazza at this [link](https://piazza.com/jhu/spring2023/en601764).
+
 Readings
 : This is an upper-level graduate course. Readings will be provided by the instructor when necessary and may include technical reports, book chapter excerpts, journal and conference papers, etc. There is no required text book for the course.
 
