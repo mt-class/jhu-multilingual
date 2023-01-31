@@ -53,9 +53,13 @@ Train GIZA++
 
 The first step is to run GIZA++ on the provided bitexts (EN and SV). Follow the instructions from the repo above.
 The format should be three lines for each example. For instance, a French-English example from GIZA++ looks like this:
+
 "# Sentence pair (1)
+
 il s' agit de la même société qui a changé de propriétaires
+
 NULL ({ }) UNK ({ }) UNK ({ }) ( ({ }) this ({ 4 11 }) is ({ }) the ({ }) same ({ 6 }) agency ({ }) which ({ 8 }) has ({ }) undergone ({ 1 2 3 7 9 10 12 }) a ({ }) change ({ 5 }) of ({ }) UNK ({ })"
+
 
 DELIVERABLES:
 * For the first 10 sentences of the bitext provide the Alignment file (*.A3.*) for IBM Model 1 (5 points)
