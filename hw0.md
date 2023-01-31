@@ -86,7 +86,7 @@ Generate New Data
 =================
 
 We have 1032 lines of new English data that we want to project into Swedish here: [dev_pos_bitext.en](./hw0/dev_pos_bitext.en) 
-and CoNLL-U file here: [en_lines-ud-dev.conllu](en_lines-ud-dev.conllu).
+and CoNLL-U file here: [en_lines-ud-dev.conllu](./hw0/en_lines-ud-dev.conllu).
 Translate it into Swedish and re-run the first two steps. You can do this by
 concatenating the 1032 lines onto the end of your bitexts. You can use any automatic
 machine translation system for the transforming the raw English text into Swedish.
