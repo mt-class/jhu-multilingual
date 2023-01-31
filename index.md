@@ -39,7 +39,7 @@ Grading
 
 Homework Schedule
 : There will be four homework assignments, tentative schedule:
-* [HW1: Silver Dataset Creation](hw0.html), due February 16
+* [HW1: Silver Dataset Creation](hw0.md), due February 16
 * [HW2: ](hw1.md), due March 7
 * [HW3: ](hw2.md), due April 4
 * [HW4: ](hw3.md), due April 17
