@@ -3,6 +3,13 @@ past:
     date: 2022-08-30
     title: Introduction
     slides: http://mt-class.org/jhu/slides/lecture-introduction.pdf
+    links:
+      -
+        text: Video
+        url: http://www.cs.jhu.edu/~phi/mt-class/intro.mp4
+      - 
+        text: Youtube
+        url: https://www.youtube.com/watch?v=DuYkqCQEbpo
     reading:
       -
         author: Koehn (2010) 
