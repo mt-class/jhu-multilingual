@@ -9,22 +9,38 @@ past:
         title: Statistical Machine Translation, Chapter 1.2
   - 
     date: 2023-01-26
-    title: Introduction and MT and Large Language Models
+    title: MT and Large Language Models
   -
     date: 2023-01-31
     title: Survey of Multilingual NLP
+  -
+    date: 2023-02-02
+    title: Multilingual Information Extraction
   -
     date: 2023-02-07
     title: Project Proposal Presentations
   -
     date: 2023-02-09
-    title: CLIR
+    title: Cross-Language Information Retrieval (CLIR)
   -
     date: 2023-02-14
-    title: MLIR
+    title: Multilingual Information Retrieval (MLIR)
   -
     date: 2023-02-16
-    title: Multilingual QA
+    title: Multilingual Spoken Language Understanding (SLU)
+  -
+    date: 2023-02-21
+    title: Multilingual Semantics (Guest Lecture by Elias Stengel-Eskin)
+    slides: http://mt-class.org/jhu-multilingual/_data/multilingual_semantics.pdf
+  -
+    date: 2023-02-23
+    title: Multilingual Question Answering
+  -
+    date: 2023-02-28
+    title: Multilingual QA (Methods)
+  -
+    date: 2023-03-02
+    title: Typology
   -
     date: 2023-03-07
     title: Bilinugal Lexicon Induction (Guest Lecture by Kelly Marchisio)
