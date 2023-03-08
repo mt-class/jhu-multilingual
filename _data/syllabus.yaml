@@ -1,31 +1,12 @@
 past:
   - 
-    date: 2022-08-30
-    title: Introduction
+    date: 2023-01-24
+    title: Introduction and MT
     slides: http://mt-class.org/jhu/slides/lecture-introduction.pdf
     reading:
       -
         author: Koehn (2010) 
         title: Statistical Machine Translation, Chapter 1.2
-      -
-        author: Weaver (1949)
-        title: Translation
-        url: http://www.mt-archive.info/Weaver-1949.pd
-        optional: true
-      -
-        author: Kay 
-        title: Translation
-        url: http://www.stanford.edu/~mjkay/CurrentState.pdf
-        optional: true
   -
-    date: 2022-11-29
-    title: Project Presentations
-  -
-    date: 2022-12-01
-    title: Project Presentations
-  -
-    date: 2022-12-06
-    title: Project Presentations
-  -
-    date: 2022-12-08
-    title: Project Presentations
+    date: 2023-04-27
+    title: Final Project Presentations
