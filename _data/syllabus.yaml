@@ -2,7 +2,6 @@ past:
   - 
     date: 2023-01-24
     title: Introduction and MT
-    slides: http://mt-class.org/jhu/slides/lecture-introduction.pdf
     reading:
       -
         author: Koehn (2010) 
@@ -10,24 +9,30 @@ past:
   - 
     date: 2023-01-26
     title: MT and Large Language Models
+    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_MT_and_LLM.pdf
   -
     date: 2023-01-31
     title: Survey of Multilingual NLP
+    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_survey.pdf
   -
     date: 2023-02-02
     title: Multilingual Information Extraction
+    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_IE.pdf
   -
     date: 2023-02-07
     title: Project Proposal Presentations
   -
     date: 2023-02-09
     title: Cross-Language Information Retrieval (CLIR)
+    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_CLIR.pdf
   -
     date: 2023-02-14
     title: Multilingual Information Retrieval (MLIR)
+    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_MLIR.pdf
   -
     date: 2023-02-16
     title: Multilingual Spoken Language Understanding (SLU)
+    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_SLU.pdf
   -
     date: 2023-02-21
     title: Multilingual Semantics (Guest Lecture by Elias Stengel-Eskin)
@@ -35,12 +40,15 @@ past:
   -
     date: 2023-02-23
     title: Multilingual Question Answering
+    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_QA.pdf
   -
     date: 2023-02-28
     title: Multilingual QA (Methods)
+    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_QA_methods.pdf
   -
     date: 2023-03-02
     title: Typology
+    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_typology.pdf
   -
     date: 2023-03-07
     title: Bilinugal Lexicon Induction (Guest Lecture by Kelly Marchisio)
