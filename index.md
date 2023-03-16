@@ -43,8 +43,7 @@ Grading
 Homework Schedule
 : There will be four homework assignments, tentative schedule:
 * [HW1: Silver Dataset Creation](hw0.md), due February 16
-* [HW2: ](hw1.md), due March 7
-* [HW3: ](hw2.md), due April 4
-* [HW4: ](hw3.md), due April 17
+* [HW2: Cross-Language Information Retrieval](hw1.md), due April 6
+* [HW3: ](hw2.md), due April 25
 
 All assignments are due at the start of class on the day they are due. Exceptions regarding tardiness will be considered on a case-by-case basis and must be submitted via e-mail 24 hours before the initial due date. Late submissions will be accepted using an exponential decay formula with a half-life of 1 week (604800 seconds).
