@@ -48,14 +48,14 @@ processing queries and documents in the same way. Change the queries to use true
 The run should fail. Different preprocessing is such an issue for IR, that automatic checks like this are necessary.
 Also change the document preprocessing to use truecased. Report MAP and NDCG Prime.
 
-Change the tokenizer to moses. Rerun the system using moses and truecased.
+Change the tokenizer to stanza. Rerun the system using stanza and truecased.
 
 DELIVERABLES:
 * Report map and ndcg_prime scores for test set 5 using truecased queries and documents ( points)
 * Report map and ndcg_prime scores for test set 6 using truecased queries and documents ( points)
 * Talk about why these scores are what they are in comparison to the baseline ()
-* Report map and ndcg_prime scores for test set 5 using truecased queries and documents and moses ( points)
-* Report map and ndcg_prime scores for test set 6 using truecased queries and documents and moses ( points)
+* Report map and ndcg_prime scores for test set 5 using truecased queries and documents and stanza ( points)
+* Report map and ndcg_prime scores for test set 6 using truecased queries and documents and stanza ( points)
 * Talk about why these scores are what they are in comparison to the baseline ()
 
 PSQ
