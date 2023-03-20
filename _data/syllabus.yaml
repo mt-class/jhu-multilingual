@@ -15,6 +15,10 @@ past:
         author: Devlin et al. (2018) 
         title: BERT Pre-training of Deep Bidirectional Transformers for Language Understanding
         url: https://aclanthology.org/N19-1423.pdf
+      -
+        author: Xue et al. (2021) 
+        title: mT5 A Massively Multilingual Pre-trained Text-to-Text Transformer
+        url: https://aclanthology.org/2021.naacl-main.41.pdf
   -
     date: 2023-01-31
     title: Survey of Multilingual NLP
