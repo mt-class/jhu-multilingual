@@ -61,15 +61,24 @@ past:
     date: 2023-02-14
     title: Multilingual Information Retrieval (MLIR)
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_MLIR.pdf
-    readings:
+    reading:
       -
-        author: Nair et al. (2023) 
+        author: Lawrie et al. (2023) 
         title: Neural Approaches to Multilingual Information Retrieval
         url: https://www.springerprofessional.de/en/neural-approaches-to-multilingual-information-retrieval/24634640
   -
     date: 2023-02-16
     title: Multilingual Spoken Language Understanding (SLU)
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_SLU.pdf
+    reading:
+      -
+        author: Hemphill et al. (1990)
+        title: The ATIS Spoken Language Systems Pilot Corpus
+        url: https://aclanthology.org/H90-1021.pdf
+      -
+        author: Faruqui and Hakkani-Tur (2022)
+        title: Revisiting the Boundary between ASR and NLU in the Age of Conversational Dialog Systems
+        url: https://aclanthology.org/2022.cl-1.8.pdf
   -
     date: 2023-02-21
     title: Multilingual Semantics (Guest Lecture by Elias Stengel-Eskin)
