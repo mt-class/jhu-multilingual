@@ -14,7 +14,6 @@ past:
       -
         author: Devlin et al. (2018) 
         title: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
-        url: https://aclanthology.org/N19-1423.pdf
   -
     date: 2023-01-31
     title: Survey of Multilingual NLP
