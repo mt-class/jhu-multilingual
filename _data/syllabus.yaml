@@ -27,6 +27,18 @@ past:
     date: 2023-02-02
     title: Multilingual Information Extraction
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_IE.pdf
+    reading:
+      -
+        author: Bikel and Zitouni (2012) 
+        title: Multilingual Natural Language Processing Applications, Chapter 13
+      -
+        author: Yarmohammadi et al. (2021) 
+        title: Everything Is All It Take A Multipronged Strategy for Zero-Shot Cross-Lingual Information Extraction
+        url: https://aclanthology.org/2021.emnlp-main.149.pdf
+      -
+        author: Chen et al. (2022) 
+        title: Frustratingly Easy Label Projection for Cross-lingual Transfer
+        url: https://arxiv.org/pdf/2211.15613.pdf
   -
     date: 2023-02-07
     title: Project Proposal Presentations
@@ -34,10 +46,26 @@ past:
     date: 2023-02-09
     title: Cross-Language Information Retrieval (CLIR)
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_CLIR.pdf
+    reading:
+      -
+        author: Manning et al. (2008) 
+        title: Introduction to Infomation Retrieval, Chapter 1
+      -
+        author: Robertson and Sparck Jones (1976) 
+        title: Okapi BM 25
+      -
+        author: Nair et al. (2022) 
+        title: Transfer Learning Approaches for Building Cross-Language Dense Retrieval Models
+        url: https://link.springer.com/chapter/10.1007/978-3-030-99736-6_26
   -
     date: 2023-02-14
     title: Multilingual Information Retrieval (MLIR)
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_MLIR.pdf
+    readings:
+      -
+        author: Nair et al. (2023) 
+        title: Neural Approaches to Multilingual Information Retrieval
+        url: https://www.springerprofessional.de/en/neural-approaches-to-multilingual-information-retrieval/24634640
   -
     date: 2023-02-16
     title: Multilingual Spoken Language Understanding (SLU)
