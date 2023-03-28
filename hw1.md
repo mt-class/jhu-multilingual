@@ -51,17 +51,37 @@ Also change the document preprocessing to use truecased. Report MAP and NDCG Pri
 Change the tokenizer to stanza. Rerun the system using stanza and truecased.
 
 DELIVERABLES:
-* Report map and ndcg_prime scores for test set 5 using truecased queries and documents ( points)
-* Report map and ndcg_prime scores for test set 6 using truecased queries and documents ( points)
-* Talk about why these scores are what they are in comparison to the baseline ()
-* Report map and ndcg_prime scores for test set 5 using truecased queries and documents and stanza ( points)
-* Report map and ndcg_prime scores for test set 6 using truecased queries and documents and stanza ( points)
-* Talk about why these scores are what they are in comparison to the baseline ()
+* Report map and ndcg_prime scores for test set 5 using truecased queries and documents (5 points)
+* Report map and ndcg_prime scores for test set 6 using truecased queries and documents (5 points)
+* Talk about why these scores are what they are in comparison to the baseline (5 points)
+* Report map and ndcg_prime scores for test set 5 using truecased queries and documents and stanza (5 points)
+* Report map and ndcg_prime scores for test set 6 using truecased queries and documents and stanza (5 points)
+* Talk about why these scores are what they are in comparison to the baseline (5 points)
 
 PSQ
 --------------
 
 Probabilistic Structured Queries (PSQ) ([Darwish and Oard, 2003](https://dl.acm.org/doi/pdf/10.1145/860435.860497))
+rely on statistical machine translation to create translation tables of queries. The colab notebook already
+has a pretrained version called: zho_eng_clean_reduced_pdt.dict 
+
+We are interested in the impact of translation quality on translations on PSQ. Please train another translation 
+table following the example in GitHub:
+[Running PSQ Using Patapsco](https://github.com/hltcoe/patapsco/tree/master/samples/translation-table).
+
+This process can be slow (relying on Giza++). Feel free to use a smaller bitext (say 20k lines) even
+though the performance will not be as good as the baseline experiment. You are free to use any publicly
+available Chinese English dataset you would like. After creating a new translation
+table for PSQ, rerun the system using this.
+
+DELIVERABLES:
+* Report map and ndcg_prime scores for test set 5 using the provided PSQ table (5 points)
+* Report map and ndcg_prime scores for test set 6 using the provided PSQ table (5 points)
+* Report which bitext you used for the PSQ (1 point)
+* Train a new translation table and upload it to gradescope (4 points)
+* Report map and ndcg_prime scores for test set 5 using your new PSQ table (5 points)
+* Report map and ndcg_prime scores for test set 6 using your new PSQ table (5 points)
+* Talk about why these scores differ from the baseline and how much translation quality impacts performance (3 points)
 
 
 Propose Improvements
@@ -72,10 +92,10 @@ This could be from improved tokenization schemes, better translations, segmentat
 Propose and implement 2 methods.
 
 DELIVERABLES:
-* Report map and ndcg_prime scores for test set 5 using only the first improvement ( points)
-* Report map and ndcg_prime scores for test set 6 using only the first improvement ( points)
-* Report map and ndcg_prime scores for test set 5 using only the second improvement ( points)
-* Report map and ndcg_prime scores for test set 6 using only the second improvement ( points)
+* Report map and ndcg_prime scores for test set 5 using only the first improvement (8 points)
+* Report map and ndcg_prime scores for test set 6 using only the first improvement (8 points)
+* Report map and ndcg_prime scores for test set 5 using only the second improvement (8 points)
+* Report map and ndcg_prime scores for test set 6 using only the second improvement (8 points)
 
 Write-Up
 ========
