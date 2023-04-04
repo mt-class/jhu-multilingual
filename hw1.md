@@ -8,8 +8,8 @@ img2_link: http://www.statmt.org/nmt-book/
 active_tab: main_page
 ---
 
-Cross-Language Information Retrieval (CLIR)
-===========================================
+Cross-Language Information Retrieval (CLIR) - DUE APRIL 6
+=========================================================
 
 Cross-Language Information Retrieval has queries in one language and documents in another. Crossing the langauge barrier
 is an integral part of the task. As we discussed in class, this is normally accomplished using three main methods:
