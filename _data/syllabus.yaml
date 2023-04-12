@@ -117,5 +117,13 @@ past:
     date: 2023-03-30
     title: Mid-Point Project Presentations
   -
+    date: 2023-04-06
+    title: Multilingual Representation Learning
+    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_representation_learning.pdf
+  -
+    date: 2023-04-11
+    title: Multilingual Automatic Speech Recognition
+    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_ASR.pdf
+  -
     date: 2023-04-27
     title: Final Project Presentations
