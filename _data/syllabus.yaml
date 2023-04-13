@@ -110,9 +110,20 @@ past:
   -
     date: 2023-03-16
     title: GPT-4
+    reading:
+      -
+        author: OpenAI (2023)
+        title: GPT-4 Technical Report
+        url: https://cdn.openai.com/papers/gpt-4.pdf
   -
     date: 2023-03-28
-    title: Multilingual Automatic Speech Recognition
+    title: Multilingual Dialogue Systems
+    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_dialogue.pdf
+    reading:
+      -
+        author: Goel et al. (2023)
+        title: PRESTO A Multilingual Dataset for Parsing Realistic Task-Oriented Dialogs
+        url: https://arxiv.org/pdf/2303.08954.pdf
   -
     date: 2023-03-30
     title: Mid-Point Project Presentations
@@ -120,10 +131,43 @@ past:
     date: 2023-04-06
     title: Multilingual Representation Learning
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_representation_learning.pdf
+    reading:
+      -
+        author: Rudman et al. (2022) 
+        title: IsoScore Measuring the Uniformity of Embedding Space Utilization
+        url: https://aclanthology.org/2022.findings-acl.262.pdf
   -
     date: 2023-04-11
     title: Multilingual Automatic Speech Recognition
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_ASR.pdf
+    reading:
+      -
+        author: Radford et al. (2022) 
+        title: Robust Speech Recognition via Large-Scale Weak Supervision
+        url: https://cdn.openai.com/papers/whisper.pdf
+      -
+        author: Ardila (2020) 
+        title: Common Voice A Massively-Multilingual Speech Corpus
+        url: https://aclanthology.org/2020.lrec-1.520.pdf
+  -
+    date: 2023-04-13
+    title: Phonology
+    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_phonology.pdf
+    reading:
+      -
+        author: Arwedson et al. (1888) 
+        title: Dhi Fonetik Titcer
+        url: https://www.jstor.org/stable/44701189
+      -
+        author: Journal of the International Phonetic Association (1949) 
+        title: THE PRINCIPLES OF THE INTERNATIONAL PHONETIC ASSOCIATION
+        url: https://www.jstor.org/stable/44526579?seq=1
+  -
+    date: 2023-04-20
+    title: Multilingual Text-to-Speech
+  -
+    date: 2023-04-25
+    title: Putting it all together
   -
     date: 2023-04-27
     title: Final Project Presentations
