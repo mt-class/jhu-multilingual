@@ -166,9 +166,14 @@ past:
     date: 2023-04-20
     title: Multilingual Text-to-Speech
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_TTS.pdf
+    reading:
+      -
+        author: Oord et al. (2016)
+        title: WaveNet A Generative Model for Raw Audio
+        url: https://arxiv.org/pdf/1609.03499.pdf
   -
     date: 2023-04-25
-    title: Putting it all together
+    title: Putting It All Together
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_putting_it_all_together.pdf
   -
     date: 2023-04-27
