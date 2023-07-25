@@ -132,6 +132,15 @@ past:
     date: 2023-03-14
     title: Low-Resource
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_LowRes.pdf
+    reading:
+      -
+        author: NLLB Team (2022)
+        title: No Language Left Behind Scaling Human-Centered Machine Translation
+        url: https://arxiv.org/ftp/arxiv/papers/2207/2207.04672.pdf
+      -
+        author: McCarthy (2020)
+        title: The Johns Hopkins University Bible Corpus 1600+ Tongues for Typological Exploration
+        url: https://aclanthology.org/2020.lrec-1.352.pdf
   -
     date: 2023-03-16
     title: GPT-4
