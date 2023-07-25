@@ -101,10 +101,20 @@ past:
     date: 2023-02-28
     title: Multilingual QA (Methods)
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_QA_methods.pdf
+    reading:
+      -
+        author: Xue et al. (2022)
+        title: ByT5 Towards a Token-Free Future with Pre-trained Byte-to-Byte Models
+        url: https://arxiv.org/pdf/2105.13626.pdf
   -
     date: 2023-03-02
     title: Typology
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_typology.pdf
+    reading:
+      -
+        author: Hammarstrom (2016)
+        title: Linguistic Diversity and Language Evolution
+        url: https://academic.oup.com/jole/article/1/1/19/2281898
   -
     date: 2023-03-07
     title: Bilingual Lexicon Induction (BLI) (Guest Lecture by Kelly Marchisio)
@@ -113,6 +123,11 @@ past:
     date: 2023-03-09
     title: Code-Switching
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_code-switching.pdf
+    reading:
+      -
+        author: Poplack (1980)
+        title: Sometimes I'll Start A Sentence in Spanish y Termino en Espanol Toward a Typology of Code-Switching
+        url: https://yorkspace.library.yorku.ca/xmlui/bitstream/handle/10315/2506/CRLC00161.pdf?s
   -
     date: 2023-03-14
     title: Low-Resource
@@ -170,7 +185,7 @@ past:
         url: https://www.jstor.org/stable/44701189
       -
         author: Journal of the International Phonetic Association (1949) 
-        title: THE PRINCIPLES OF THE INTERNATIONAL PHONETIC ASSOCIATION
+        title: The Principles of the International Phonetic Association
         url: https://www.jstor.org/stable/44526579?seq=1
   -
     date: 2023-04-20
