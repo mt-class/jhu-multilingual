@@ -5,7 +5,7 @@ past:
     reading:
       -
         author: Koehn (2010) 
-        title: Statistical Machine Translation, Chapter 1.2
+        title: Statistical Machine Translation, Chapter 4
   - 
     date: 2023-01-26
     title: MT and Large Language Models
@@ -83,10 +83,20 @@ past:
     date: 2023-02-21
     title: Multilingual Semantics (Guest Lecture by Elias Stengel-Eskin)
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_semantics.pdf
+    reading:
+      -
+        author: Stengel-Eskin et al. (2021)
+        title: Joint Universal Syntatic and Semantic Parsing
+        url: https://aclanthology.org/2021.tacl-1.46.pdf
   -
     date: 2023-02-23
     title: Multilingual Question Answering
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_QA.pdf
+    reading:
+      -
+        author: Clark et al. (2020)
+        title: TYDI QA A Benchmark for Information-Seeking Question Answering in Typologically Diverse Languages
+        url: https://aclanthology.org/2020.tacl-1.30.pdf
   -
     date: 2023-02-28
     title: Multilingual QA (Methods)
