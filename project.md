@@ -21,7 +21,7 @@ keep you on track, there are three presentations (proposal/interim/final) with
 two reports (interim being a subset of the final):
 
 <!-- * BEFORE October 19: Meet with your instructors, by [appointment](https://docs.google.com/document/d/1DVmTdxl9WqlrV7VVZB5uw5ix5WtnEmfGLrGk2JHueUo/edit?usp=sharing). -->
-* February 7: Project proposals (5% of course grade)
+* February 6: Project proposals (5% of course grade)
 * March 28: Interim report due (5% of course grade)
 * March  28: Mid-Point presentations (10% of course grade)
 * May 16: Final project presentations (10% of course grade)
@@ -37,7 +37,7 @@ Project Proposal
 ----------------
 Your project proposal should be ready at the start of class on February 7th.
 Groups will be randomly selected to present and you may not end up presenting
-until the 9th. Unlike the Machine Translation course, you are not required
+until the 8th. Unlike the Machine Translation course, you are not required
 to meet with the instructor before the project proposal and there is no
 written proposal. However, by the mid-point checkpoint, a much more formal
 research proposal will be due and your group will need to meet with the
