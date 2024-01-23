@@ -1,13 +1,14 @@
 past:
   - 
-    date: 2023-01-24
-    title: Introduction and MT
+    date: 2024-01-23
+    title: Introduction and Large Language Models
+    slides: https://livejohnshopkins-my.sharepoint.com/:p:/r/personal/kmurra50_jh_edu/Documents/Documents/MultilingualNLP/2024/JHU/Introduction%20to%20Multilingual%20Natural%20Language%20Processing.pptx?d=w25db4f9d4df048998b19a6e1e34e9e23&csf=1&web=1&e=mbcJua
     reading:
       -
         author: Koehn (2010) 
         title: Statistical Machine Translation, Chapter 4
   - 
-    date: 2023-01-26
+    date: 2024-01-25
     title: MT and Large Language Models
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_MT_and_LLM.pdf
     reading:
@@ -20,11 +21,11 @@ past:
         title: mT5 A Massively Multilingual Pre-trained Text-to-Text Transformer
         url: https://aclanthology.org/2021.naacl-main.41.pdf
   -
-    date: 2023-01-31
+    date: 2024-01-30
     title: Survey of Multilingual NLP
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_survey.pdf
   -
-    date: 2023-02-02
+    date: 2024-02-01
     title: Multilingual Information Extraction
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_IE.pdf
     reading:
@@ -40,10 +41,10 @@ past:
         title: Frustratingly Easy Label Projection for Cross-lingual Transfer
         url: https://arxiv.org/pdf/2211.15613.pdf
   -
-    date: 2023-02-07
+    date: 2024-02-06
     title: Project Proposal Presentations
   -
-    date: 2023-02-09
+    date: 2024-02-08
     title: Cross-Language Information Retrieval (CLIR)
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_CLIR.pdf
     reading:
@@ -58,7 +59,7 @@ past:
         title: Transfer Learning Approaches for Building Cross-Language Dense Retrieval Models
         url: https://link.springer.com/chapter/10.1007/978-3-030-99736-6_26
   -
-    date: 2023-02-14
+    date: 2024-02-13
     title: Multilingual Information Retrieval (MLIR)
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_MLIR.pdf
     reading:
@@ -67,7 +68,7 @@ past:
         title: Neural Approaches to Multilingual Information Retrieval
         url: https://www.springerprofessional.de/en/neural-approaches-to-multilingual-information-retrieval/24634640
   -
-    date: 2023-02-16
+    date: 2024-02-15
     title: Multilingual Spoken Language Understanding (SLU)
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_SLU.pdf
     reading:
@@ -80,7 +81,7 @@ past:
         title: Revisiting the Boundary between ASR and NLU in the Age of Conversational Dialog Systems
         url: https://aclanthology.org/2022.cl-1.8.pdf
   -
-    date: 2023-02-21
+    date: 2024-02-20
     title: Multilingual Semantics (Guest Lecture by Elias Stengel-Eskin)
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_semantics.pdf
     reading:
@@ -89,7 +90,7 @@ past:
         title: Joint Universal Syntatic and Semantic Parsing
         url: https://aclanthology.org/2021.tacl-1.46.pdf
   -
-    date: 2023-02-23
+    date: 2024-02-22
     title: Multilingual Question Answering
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_QA.pdf
     reading:
@@ -98,7 +99,7 @@ past:
         title: TYDI QA A Benchmark for Information-Seeking Question Answering in Typologically Diverse Languages
         url: https://aclanthology.org/2020.tacl-1.30.pdf
   -
-    date: 2023-02-28
+    date: 2024-02-27
     title: Multilingual QA (Methods)
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_QA_methods.pdf
     reading:
@@ -107,7 +108,7 @@ past:
         title: ByT5 Towards a Token-Free Future with Pre-trained Byte-to-Byte Models
         url: https://arxiv.org/pdf/2105.13626.pdf
   -
-    date: 2023-03-02
+    date: 2024-03-02
     title: Typology
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_typology.pdf
     reading:
@@ -116,11 +117,11 @@ past:
         title: Linguistic Diversity and Language Evolution
         url: https://academic.oup.com/jole/article/1/1/19/2281898
   -
-    date: 2023-03-07
+    date: 2024-03-07
     title: Bilingual Lexicon Induction (BLI) (Guest Lecture by Kelly Marchisio)
     slides: https://docs.google.com/presentation/d/1sYWqSZcdFliqF_k7j_AbvFl-NNtNsOn5qaPThPkkfpc/edit?usp=sharing
   -
-    date: 2023-03-09
+    date: 2024-03-09
     title: Code-Switching
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_code-switching.pdf
     reading:
@@ -129,7 +130,7 @@ past:
         title: Sometimes I'll Start A Sentence in Spanish y Termino en Espanol Toward a Typology of Code-Switching
         url: https://yorkspace.library.yorku.ca/xmlui/bitstream/handle/10315/2506/CRLC00161.pdf?s
   -
-    date: 2023-03-14
+    date: 2024-03-14
     title: Low-Resource
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_LowRes.pdf
     reading:
@@ -142,7 +143,7 @@ past:
         title: The Johns Hopkins University Bible Corpus 1600+ Tongues for Typological Exploration
         url: https://aclanthology.org/2020.lrec-1.352.pdf
   -
-    date: 2023-03-16
+    date: 2024-03-16
     title: GPT-4
     reading:
       -
@@ -150,7 +151,7 @@ past:
         title: GPT-4 Technical Report
         url: https://cdn.openai.com/papers/gpt-4.pdf
   -
-    date: 2023-03-28
+    date: 2024-03-28
     title: Multilingual Dialogue Systems
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_dialogue.pdf
     reading:
@@ -159,10 +160,10 @@ past:
         title: PRESTO A Multilingual Dataset for Parsing Realistic Task-Oriented Dialogs
         url: https://arxiv.org/pdf/2303.08954.pdf
   -
-    date: 2023-03-30
+    date: 2024-03-30
     title: Mid-Point Project Presentations
   -
-    date: 2023-04-06
+    date: 2024-04-06
     title: Multilingual Representation Learning
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_representation_learning.pdf
     reading:
@@ -171,7 +172,7 @@ past:
         title: IsoScore Measuring the Uniformity of Embedding Space Utilization
         url: https://aclanthology.org/2022.findings-acl.262.pdf
   -
-    date: 2023-04-11
+    date: 2024-04-11
     title: Multilingual Automatic Speech Recognition
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_ASR.pdf
     reading:
@@ -184,7 +185,7 @@ past:
         title: Common Voice A Massively-Multilingual Speech Corpus
         url: https://aclanthology.org/2020.lrec-1.520.pdf
   -
-    date: 2023-04-13
+    date: 2024-04-13
     title: Phonology
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_phonology.pdf
     reading:
@@ -197,7 +198,7 @@ past:
         title: The Principles of the International Phonetic Association
         url: https://www.jstor.org/stable/44526579?seq=1
   -
-    date: 2023-04-20
+    date: 2024-04-20
     title: Multilingual Text-to-Speech
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_TTS.pdf
     reading:
@@ -206,9 +207,9 @@ past:
         title: WaveNet A Generative Model for Raw Audio
         url: https://arxiv.org/pdf/1609.03499.pdf
   -
-    date: 2023-04-25
+    date: 2024-04-25
     title: Putting It All Together
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_putting_it_all_together.pdf
   -
-    date: 2023-04-27
+    date: 2024-04-27
     title: Final Project Presentations
