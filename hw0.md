@@ -11,6 +11,8 @@ active_tab: main_page
 Silver Dataset Creation
 =======================
 
+Due: February 8
+
 Note: Start early! Some of these methods may take a while to run on your hardware and shared resources within the department
 may be limited near the due date!
 

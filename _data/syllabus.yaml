@@ -7,11 +7,6 @@ past:
       -
         author: Koehn (2010) 
         title: Statistical Machine Translation, Chapter 4
-  - 
-    date: 2024-01-25
-    title: MT and Large Language Models
-    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_MT_and_LLM.pdf
-    reading:
       -
         author: Devlin et al. (2018) 
         title: BERT Pre-training of Deep Bidirectional Transformers for Language Understanding
@@ -20,6 +15,22 @@ past:
         author: Xue et al. (2021) 
         title: mT5 A Massively Multilingual Pre-trained Text-to-Text Transformer
         url: https://aclanthology.org/2021.naacl-main.41.pdf
+  - 
+    date: 2024-01-25
+    title: Cross-Lingual Information Extraction
+    slides: https://livejohnshopkins-my.sharepoint.com/:p:/g/personal/kmurra50_jh_edu/EU_2yDQ_ktBFqRl4K2AwYrMBmeNIhWZNfRGJdoGqGggDtg?e=bYPCPD
+    reading:
+      -
+        author: Bikel and Zitouni (2012) 
+        title: Multilingual Natural Language Processing Applications, Chapter 13
+      -
+        author: Yarmohammadi et al. (2021) 
+        title: Everything Is All It Take A Multipronged Strategy for Zero-Shot Cross-Lingual Information Extraction
+        url: https://aclanthology.org/2021.emnlp-main.149.pdf
+      -
+        author: Chen et al. (2022) 
+        title: Frustratingly Easy Label Projection for Cross-lingual Transfer
+        url: https://arxiv.org/pdf/2211.15613.pdf
   -
     date: 2024-01-30
     title: Survey of Multilingual NLP
