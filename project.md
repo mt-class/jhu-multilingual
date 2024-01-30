@@ -27,6 +27,7 @@ two reports (interim being a subset of the final):
 * May 16: Final project presentations (10% of course grade)
 * May 23: Final write-up (20% of course grade)
 
+[Here are some slides](http://mt-class.org/jhu-multilingual/slides/multilingual_survey.pdf) discussing broad themes of the class and potential projects.
 
 <!-- Project Presentations
 ---------------------
