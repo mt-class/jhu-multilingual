@@ -21,7 +21,7 @@ keep you on track, there are three presentations (proposal/interim/final) with
 two reports (interim being a subset of the final):
 
 <!-- * BEFORE October 19: Meet with your instructors, by [appointment](https://docs.google.com/document/d/1DVmTdxl9WqlrV7VVZB5uw5ix5WtnEmfGLrGk2JHueUo/edit?usp=sharing). -->
-* February 6: Project proposals (5% of course grade)
+* February 13: Project proposals (5% of course grade)
 * March 28: Interim report due (5% of course grade)
 * March  28: Mid-Point presentations (10% of course grade)
 * May 16: Final project presentations (10% of course grade)

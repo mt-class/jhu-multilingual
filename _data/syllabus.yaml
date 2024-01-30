@@ -33,27 +33,44 @@ past:
         url: https://arxiv.org/pdf/2211.15613.pdf
   -
     date: 2024-01-30
-    title: Survey of Multilingual NLP
+    title: Multilingual Spoken Language Understanding (SLU)
+    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_SLU.pdf
+    reading:
+      -
+        author: Hemphill et al. (1990)
+        title: The ATIS Spoken Language Systems Pilot Corpus
+        url: https://aclanthology.org/H90-1021.pdf
+      -
+        author: Faruqui and Hakkani-Tur (2022)
+        title: Revisiting the Boundary between ASR and NLU in the Age of Conversational Dialog Systems
+        url: https://aclanthology.org/2022.cl-1.8.pdf
+    date: 2024-01-30
+    title: Survey of Multilingual NLP (Introduce Class Project)
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_survey.pdf
   -
     date: 2024-02-01
-    title: Multilingual Information Extraction
-    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_IE.pdf
+    title: Cross-Language Information Retrieval (CLIR)
+    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_CLIR.pdf
     reading:
       -
-        author: Bikel and Zitouni (2012) 
-        title: Multilingual Natural Language Processing Applications, Chapter 13
+        author: Manning et al. (2008) 
+        title: Introduction to Infomation Retrieval, Chapter 1
       -
-        author: Yarmohammadi et al. (2021) 
-        title: Everything Is All It Take A Multipronged Strategy for Zero-Shot Cross-Lingual Information Extraction
-        url: https://aclanthology.org/2021.emnlp-main.149.pdf
+        author: Robertson and Sparck Jones (1976) 
+        title: Okapi BM 25
       -
-        author: Chen et al. (2022) 
-        title: Frustratingly Easy Label Projection for Cross-lingual Transfer
-        url: https://arxiv.org/pdf/2211.15613.pdf
+        author: Nair et al. (2022) 
+        title: Transfer Learning Approaches for Building Cross-Language Dense Retrieval Models
+        url: https://link.springer.com/chapter/10.1007/978-3-030-99736-6_26
   -
     date: 2024-02-06
-    title: Project Proposal Presentations
+    title: Multilingual Information Retrieval (MLIR)
+    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_MLIR.pdf
+    reading:
+      -
+        author: Lawrie et al. (2023) 
+        title: Neural Approaches to Multilingual Information Retrieval
+        url: https://www.springerprofessional.de/en/neural-approaches-to-multilingual-information-retrieval/24634640
   -
     date: 2024-02-08
     title: Cross-Language Information Retrieval (CLIR)
@@ -71,13 +88,7 @@ past:
         url: https://link.springer.com/chapter/10.1007/978-3-030-99736-6_26
   -
     date: 2024-02-13
-    title: Multilingual Information Retrieval (MLIR)
-    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_MLIR.pdf
-    reading:
-      -
-        author: Lawrie et al. (2023) 
-        title: Neural Approaches to Multilingual Information Retrieval
-        url: https://www.springerprofessional.de/en/neural-approaches-to-multilingual-information-retrieval/24634640
+    title: Project Proposal Presentations
   -
     date: 2024-02-15
     title: Multilingual Spoken Language Understanding (SLU)
