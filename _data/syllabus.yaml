@@ -46,28 +46,26 @@ past:
         url: https://aclanthology.org/2022.cl-1.8.pdf
   -
     date: 2024-02-01
-    title: Cross-Language Information Retrieval (CLIR)
-    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_CLIR.pdf
+    title: Multilingual Question Answering
+    slides: https://livejohnshopkins-my.sharepoint.com/:p:/g/personal/kmurra50_jh_edu/EU1zRISF7UdPtKC0d2NUmPoBSedpo0HTaJyoFeCUAACUDw?e=kVAdrn
     reading:
       -
-        author: Manning et al. (2008) 
-        title: Introduction to Infomation Retrieval, Chapter 1
-      -
-        author: Robertson and Sparck Jones (1976) 
-        title: Okapi BM 25
-      -
-        author: Nair et al. (2022) 
-        title: Transfer Learning Approaches for Building Cross-Language Dense Retrieval Models
-        url: https://link.springer.com/chapter/10.1007/978-3-030-99736-6_26
+        author: Clark et al. (2020)
+        title: TYDI QA A Benchmark for Information-Seeking Question Answering in Typologically Diverse Languages
+        url: https://aclanthology.org/2020.tacl-1.30.pdf
   -
     date: 2024-02-06
-    title: Multilingual Information Retrieval (MLIR)
-    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_MLIR.pdf
+    title: Multilingual QA (Methods)
+    slides: https://livejohnshopkins-my.sharepoint.com/:p:/g/personal/kmurra50_jh_edu/Eb-euMmsugdEr6WxF1b30dwBZOLeRrOoBqxcxXo1pFvyMw?e=gUNTiq
     reading:
       -
-        author: Lawrie et al. (2023) 
-        title: Neural Approaches to Multilingual Information Retrieval
-        url: https://www.springerprofessional.de/en/neural-approaches-to-multilingual-information-retrieval/24634640
+        author: Xue et al. (2022)
+        title: ByT5 Towards a Token-Free Future with Pre-trained Byte-to-Byte Models
+        url: https://arxiv.org/pdf/2105.13626.pdf
+      -
+        author: Wei et al. (2023)
+        title: Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
+        url: https://arxiv.org/pdf/2201.11903.pdf
   -
     date: 2024-02-08
     title: Cross-Language Information Retrieval (CLIR)
@@ -88,17 +86,13 @@ past:
     title: Project Proposal Presentations
   -
     date: 2024-02-15
-    title: Multilingual Spoken Language Understanding (SLU)
-    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_SLU.pdf
+    title: Multilingual Information Retrieval (MLIR)
+    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_MLIR.pdf
     reading:
       -
-        author: Hemphill et al. (1990)
-        title: The ATIS Spoken Language Systems Pilot Corpus
-        url: https://aclanthology.org/H90-1021.pdf
-      -
-        author: Faruqui and Hakkani-Tur (2022)
-        title: Revisiting the Boundary between ASR and NLU in the Age of Conversational Dialog Systems
-        url: https://aclanthology.org/2022.cl-1.8.pdf
+        author: Lawrie et al. (2023) 
+        title: Neural Approaches to Multilingual Information Retrieval
+        url: https://www.springerprofessional.de/en/neural-approaches-to-multilingual-information-retrieval/24634640
   -
     date: 2024-02-20
     title: Multilingual Semantics (Guest Lecture by Elias Stengel-Eskin)
