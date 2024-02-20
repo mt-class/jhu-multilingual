@@ -86,15 +86,18 @@ past:
     title: Project Proposal Presentations
   -
     date: 2024-02-15
+    title: Project Proposal Presentations
+  -
+    date: 2024-02-20
     title: Multilingual Information Retrieval (MLIR)
-    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_MLIR.pdf
+    slides: https://livejohnshopkins-my.sharepoint.com/:p:/g/personal/kmurra50_jh_edu/EdH4eiLctB5Ou-g_z8d4C8oBxxb7B49BmKj8Iw40MNP61g?e=SgvHTM
     reading:
       -
         author: Lawrie et al. (2023) 
         title: Neural Approaches to Multilingual Information Retrieval
         url: https://www.springerprofessional.de/en/neural-approaches-to-multilingual-information-retrieval/24634640
   -
-    date: 2024-02-20
+    date: 2024-02-22
     title: Multilingual Semantics (Guest Lecture by Elias Stengel-Eskin)
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_semantics.pdf
     reading:
@@ -102,15 +105,6 @@ past:
         author: Stengel-Eskin et al. (2021)
         title: Joint Universal Syntatic and Semantic Parsing
         url: https://aclanthology.org/2021.tacl-1.46.pdf
-  -
-    date: 2024-02-22
-    title: Multilingual Question Answering
-    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_QA.pdf
-    reading:
-      -
-        author: Clark et al. (2020)
-        title: TYDI QA A Benchmark for Information-Seeking Question Answering in Typologically Diverse Languages
-        url: https://aclanthology.org/2020.tacl-1.30.pdf
   -
     date: 2024-02-27
     title: Multilingual QA (Methods)
