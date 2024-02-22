@@ -98,13 +98,13 @@ past:
         url: https://www.springerprofessional.de/en/neural-approaches-to-multilingual-information-retrieval/24634640
   -
     date: 2024-02-22
-    title: Multilingual Semantics (Guest Lecture by Elias Stengel-Eskin)
-    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_semantics.pdf
+    title: Typology
+    slides: https://livejohnshopkins-my.sharepoint.com/:p:/g/personal/kmurra50_jh_edu/EfRgg6tu-h9JjzU5sVUX7UQBctyNcF_HfO8TMkrdoEA8cQ?e=81baa2 
     reading:
       -
-        author: Stengel-Eskin et al. (2021)
-        title: Joint Universal Syntatic and Semantic Parsing
-        url: https://aclanthology.org/2021.tacl-1.46.pdf
+        author: Hammarstrom (2016)
+        title: Linguistic Diversity and Language Evolution
+        url: https://academic.oup.com/jole/article/1/1/19/2281898
   -
     date: 2024-02-27
     title: Multilingual QA (Methods)
