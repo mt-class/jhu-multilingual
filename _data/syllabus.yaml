@@ -107,13 +107,13 @@ past:
         url: https://academic.oup.com/jole/article/1/1/19/2281898
   -
     date: 2024-02-27
-    title: Multilingual QA (Methods)
-    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_QA_methods.pdf
+    title: Multilingual Representation Learning
+    slides: https://livejohnshopkins-my.sharepoint.com/:p:/g/personal/kmurra50_jh_edu/EUBfL_OwA29LslYADpsZSTEBt502M61_v3o2i2IKcWmn7A?e=HpOPuR
     reading:
       -
-        author: Xue et al. (2022)
-        title: ByT5 Towards a Token-Free Future with Pre-trained Byte-to-Byte Models
-        url: https://arxiv.org/pdf/2105.13626.pdf
+        author: Rudman et al. (2022) 
+        title: IsoScore Measuring the Uniformity of Embedding Space Utilization
+        url: https://aclanthology.org/2022.findings-acl.262.pdf
   -
     date: 2024-03-02
     title: Typology
