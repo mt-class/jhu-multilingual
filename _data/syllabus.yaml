@@ -115,40 +115,49 @@ past:
         title: IsoScore Measuring the Uniformity of Embedding Space Utilization
         url: https://aclanthology.org/2022.findings-acl.262.pdf
   -
-    date: 2024-03-02
-    title: Typology
-    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_typology.pdf
-    reading:
-      -
-        author: Hammarstrom (2016)
-        title: Linguistic Diversity and Language Evolution
-        url: https://academic.oup.com/jole/article/1/1/19/2281898
-  -
-    date: 2024-03-07
+    date: 2024-02-29
     title: Bilingual Lexicon Induction (BLI) (Guest Lecture by Kelly Marchisio)
     slides: https://docs.google.com/presentation/d/1sYWqSZcdFliqF_k7j_AbvFl-NNtNsOn5qaPThPkkfpc/edit?usp=sharing
   -
-    date: 2024-03-09
+    date: 2024-03-05
     title: Code-Switching
-    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_code-switching.pdf
+    slides: https://livejohnshopkins-my.sharepoint.com/:p:/g/personal/kmurra50_jh_edu/EY6IfnCNlXNOnop2pPTdobUBnHsNXkUmGXvmCB-3ePtMrQ?e=yKokb3
     reading:
       -
         author: Poplack (1980)
         title: Sometimes I'll Start A Sentence in Spanish y Termino en Espanol Toward a Typology of Code-Switching
         url: https://yorkspace.library.yorku.ca/xmlui/bitstream/handle/10315/2506/CRLC00161.pdf?s
   -
-    date: 2024-03-14
-    title: Low-Resource
-    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_LowRes.pdf
+    date: 2024-03-07
+    title: Low-Resource NLP
+    slides: https://livejohnshopkins-my.sharepoint.com/:p:/g/personal/kmurra50_jh_edu/ERm0oBmp6W1As4Re1Bkf0l4BMCkumamv3k1pETejrNHUJw?e=i3xeEd
     reading:
       -
         author: NLLB Team (2022)
         title: No Language Left Behind Scaling Human-Centered Machine Translation
         url: https://arxiv.org/ftp/arxiv/papers/2207/2207.04672.pdf
       -
-        author: McCarthy (2020)
+        author: McCarthy et al. (2020)
         title: The Johns Hopkins University Bible Corpus 1600+ Tongues for Typological Exploration
         url: https://aclanthology.org/2020.lrec-1.352.pdf
+  -
+    date: 2024-03-12
+    title: Multilingual Dialogue Systems
+    slides: https://livejohnshopkins-my.sharepoint.com/:p:/g/personal/kmurra50_jh_edu/EdL_rUM2c31DqMrjIMgWl6YB9MDfTN8Ne7Zu5j6lSsWhLQ?e=XfhqiN
+    reading:
+      -
+        author: Goel et al. (2023)
+        title: PRESTO A Multilingual Dataset for Parsing Realistic Task-Oriented Dialogs
+        url: https://arxiv.org/pdf/2303.08954.pdf
+  -
+    date: 2024-03-14
+    title: Multilingual Semantics
+    slides: https://livejohnshopkins-my.sharepoint.com/:p:/g/personal/kmurra50_jh_edu/EXpluXercBhHsZ2HhncgcxEBwfjCAoytJYBAFtxkfPU7-A?e=4gjq47
+    reading:
+      -
+        author: Stengel-Eskin et al. (2021)
+        title: Joint Universal Syntactic and Semantic Parsing
+        url: https://aclanthology.org/2021.tacl-1.46.pdf
   -
     date: 2024-03-16
     title: GPT-4
@@ -159,13 +168,6 @@ past:
         url: https://cdn.openai.com/papers/gpt-4.pdf
   -
     date: 2024-03-28
-    title: Multilingual Dialogue Systems
-    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_dialogue.pdf
-    reading:
-      -
-        author: Goel et al. (2023)
-        title: PRESTO A Multilingual Dataset for Parsing Realistic Task-Oriented Dialogs
-        url: https://arxiv.org/pdf/2303.08954.pdf
   -
     date: 2024-03-30
     title: Mid-Point Project Presentations
