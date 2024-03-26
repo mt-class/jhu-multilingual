@@ -159,13 +159,18 @@ past:
         title: Joint Universal Syntactic and Semantic Parsing
         url: https://aclanthology.org/2021.tacl-1.46.pdf
   -
-    date: 2024-03-16
-    title: GPT-4
+    date: 2024-03-26
+    title: Multilingual Automatic Speech Recognition
+    slides: https://livejohnshopkins-my.sharepoint.com/:p:/g/personal/kmurra50_jh_edu/EZWYjhQ8VYVPgMzzP94TSl0Bt_YbjsGan_WsQXt6Jhb9Kg?e=28qv6K
     reading:
       -
-        author: OpenAI (2023)
-        title: GPT-4 Technical Report
-        url: https://cdn.openai.com/papers/gpt-4.pdf
+        author: Radford et al. (2022) 
+        title: Robust Speech Recognition via Large-Scale Weak Supervision
+        url: https://cdn.openai.com/papers/whisper.pdf
+      -
+        author: Ardila (2020) 
+        title: Common Voice A Massively-Multilingual Speech Corpus
+        url: https://aclanthology.org/2020.lrec-1.520.pdf
   -
     date: 2024-03-28
   -
