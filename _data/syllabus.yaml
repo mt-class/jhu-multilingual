@@ -173,6 +173,17 @@ past:
         url: https://aclanthology.org/2020.lrec-1.520.pdf
   -
     date: 2024-03-28
+    title: Phonology
+    slides: https://livejohnshopkins-my.sharepoint.com/:p:/g/personal/kmurra50_jh_edu/EYuUfMvLEslKhovj0RY-5f4BJRVbowyZUTmjTNOMx9AT9w?e=2wi7wd
+    reading:
+      -
+        author: Arwedson et al. (1888) 
+        title: Dhi Fonetik Titcer
+        url: https://www.jstor.org/stable/44701189
+      -
+        author: Journal of the International Phonetic Association (1949) 
+        title: The Principles of the International Phonetic Association
+        url: https://www.jstor.org/stable/44526579?seq=1
   -
     date: 2024-03-30
     title: Mid-Point Project Presentations
@@ -200,17 +211,6 @@ past:
         url: https://aclanthology.org/2020.lrec-1.520.pdf
   -
     date: 2024-04-13
-    title: Phonology
-    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_phonology.pdf
-    reading:
-      -
-        author: Arwedson et al. (1888) 
-        title: Dhi Fonetik Titcer
-        url: https://www.jstor.org/stable/44701189
-      -
-        author: Journal of the International Phonetic Association (1949) 
-        title: The Principles of the International Phonetic Association
-        url: https://www.jstor.org/stable/44526579?seq=1
   -
     date: 2024-04-20
     title: Multilingual Text-to-Speech
