@@ -185,8 +185,14 @@ past:
         title: The Principles of the International Phonetic Association
         url: https://www.jstor.org/stable/44526579?seq=1
   -
-    date: 2024-03-30
-    title: Mid-Point Project Presentations
+    date: 2024-04-02
+    title: Multilingual Text-to-Speech
+    slides: https://livejohnshopkins-my.sharepoint.com/:p:/g/personal/kmurra50_jh_edu/EXaBe7nYigNLnsntDEmLm7kBSsAxoRRDnr-N7g4doOQ9Qw?e=Hmkbvs
+    reading:
+      -
+        author: Oord et al. (2016)
+        title: WaveNet A Generative Model for Raw Audio
+        url: https://arxiv.org/pdf/1609.03499.pdf
   -
     date: 2024-04-06
     title: Multilingual Representation Learning
