@@ -194,14 +194,14 @@ past:
         title: WaveNet A Generative Model for Raw Audio
         url: https://arxiv.org/pdf/1609.03499.pdf
   -
-    date: 2024-04-06
-    title: Multilingual Representation Learning
-    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_representation_learning.pdf
+    date: 2024-04-04
+    title: Multilingual Image and Text
+    slides: https://livejohnshopkins-my.sharepoint.com/:p:/g/personal/kmurra50_jh_edu/Eds8cq0it-lEtD_NtMEKa0IBHCA6FedpqPX_lt89XpMFmg?e=yZ3l0z
     reading:
       -
-        author: Rudman et al. (2022) 
-        title: IsoScore Measuring the Uniformity of Embedding Space Utilization
-        url: https://aclanthology.org/2022.findings-acl.262.pdf
+        author: Liu et al. (2021)
+        title: Visually Grounded Reasoning across Languages and Cultures
+        url: https://aclanthology.org/2021.emnlp-main.818/
   -
     date: 2024-04-11
     title: Multilingual Automatic Speech Recognition
