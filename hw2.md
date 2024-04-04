@@ -8,7 +8,7 @@ img2_link: http://www.statmt.org/nmt-book/
 active_tab: main_page
 ---
 
-Isotropy - DUE APRIL 25
+Isotropy - DUE APRIL 21 11:59PM
 =========================================================
 
 Multilingual neural models encode languages into a high-dimensional space. However, numerous work 
