@@ -210,3 +210,16 @@ past:
         author: Wiesner et al. (2019)
         title: Zero-Shot Pronunciation Lexicons for Cross-Language Acoustic Model Transfer
         url: https://ieeexplore.ieee.org/abstract/document/9004019
+  -
+    date: 2024-04-16
+    title: Reinforcement Learning from Human Feedback (RLHF)
+    slides: https://livejohnshopkins-my.sharepoint.com/:p:/g/personal/kmurra50_jh_edu/EfDvJwMgTAxNoBdDDDFiFVgBWhsyUTQZR46veKWLgyf8VA?e=zNknYP
+    reading:
+      -
+        author: Lambert et al. (2023) 
+        title: The History and Risks of Reinforcement Learning and Human Feedback
+        url: https://arxiv.org/pdf/2310.13595.pdf
+      -
+        author: Latent Space Podcast (2024)
+        title: The Origin and Future of RLHF: the secret ingredient for ChatGPT with Nathan Lambert
+        url: https://www.youtube.com/watch?v=3WU6fl7DHj0
