@@ -203,23 +203,33 @@ past:
         title: Visually Grounded Reasoning across Languages and Cultures
         url: https://aclanthology.org/2021.emnlp-main.818/
   -
-    date: 2024-04-11
-    title: Multilingual Automatic Speech Recognition
-    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_ASR.pdf
+    date: 2024-04-04
+    title: Multilingual Pronunciation (Guest Lecture Matthew Wiesner)
     reading:
       -
-        author: Radford et al. (2022) 
-        title: Robust Speech Recognition via Large-Scale Weak Supervision
-        url: https://cdn.openai.com/papers/whisper.pdf
+        author: Wiesner et al. (2019)
+        title: Zero-Shot Pronunciation Lexicons for Cross-Language Acoustic Model Transfer
+        url: https://ieeexplore.ieee.org/abstract/document/9004019
+  -
+    date: 2024-04-16
+    title: Reinforcement Learning from Human Feedback (RLHF)
+    slides: https://livejohnshopkins-my.sharepoint.com/:p:/g/personal/kmurra50_jh_edu/EfDvJwMgTAxNoBdDDDFiFVgBWhsyUTQZR46veKWLgyf8VA?e=zNknYP
+    reading:
       -
-        author: Ardila (2020) 
-        title: Common Voice A Massively-Multilingual Speech Corpus
-        url: https://aclanthology.org/2020.lrec-1.520.pdf
+        author: Lambert et al. (2023) 
+        title: The History and Risks of Reinforcement Learning and Human Feedback
+        url: https://arxiv.org/pdf/2310.13595.pdf
+      -
+        author: Latent Space Podcast (2024)
+        title: The Origin and Future of RLHF: the secret ingredient for ChatGPT with Nathan Lambert
+        url: https://www.youtube.com/watch?v=3WU6fl7DHj0
   -
-    date: 2024-04-13
+    date: 2024-04-18
+    title: Reinforcement Learning from Human Feedback (RLHF) (Continued)
+    slides: https://livejohnshopkins-my.sharepoint.com/:p:/g/personal/kmurra50_jh_edu/EfDvJwMgTAxNoBdDDDFiFVgBWhsyUTQZR46veKWLgyf8VA?e=zNknYP
   -
-    date: 2024-04-20
-    title: Multilingual Text-to-Speech
+    date: 2024-04-23
+    title: Multilingual Bias and Fact Checking
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_TTS.pdf
     reading:
       -
