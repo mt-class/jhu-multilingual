@@ -223,3 +223,23 @@ past:
         author: Latent Space Podcast (2024)
         title: The Origin and Future of RLHF the secret ingredient for ChatGPT with Nathan Lambert
         url: https://www.youtube.com/watch?v=3WU6fl7DHj0
+  -
+    date: 2024-04-18
+    title: Reinforcement Learning from Human Feedback (RLHF) (Continued)
+    slides: https://livejohnshopkins-my.sharepoint.com/:p:/g/personal/kmurra50_jh_edu/EfDvJwMgTAxNoBdDDDFiFVgBWhsyUTQZR46veKWLgyf8VA?e=zNknYP
+  -
+    date: 2024-04-23
+    title: Multilingual Bias and Fact Checking
+    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_TTS.pdf
+    reading:
+      -
+        author: Oord et al. (2016)
+        title: WaveNet A Generative Model for Raw Audio
+        url: https://arxiv.org/pdf/1609.03499.pdf
+  -
+    date: 2024-04-25
+    title: Putting It All Together
+    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_putting_it_all_together.pdf
+  -
+    date: 2024-04-27
+    title: Final Project Presentations
