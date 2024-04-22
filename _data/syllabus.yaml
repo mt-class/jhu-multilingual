@@ -202,3 +202,11 @@ past:
         author: Liu et al. (2021)
         title: Visually Grounded Reasoning across Languages and Cultures
         url: https://aclanthology.org/2021.emnlp-main.818/
+  -
+    date: 2024-04-11
+    title: Multilingual Pronunciation (Guest Lecture Matthew Wiesner)
+    reading:
+      -
+        author: Wiesner et al. (2019)
+        title: Zero-Shot Pronunciation Lexicons for Cross-Language Acoustic Model Transfer
+        url: https://ieeexplore.ieee.org/abstract/document/9004019
