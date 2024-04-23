@@ -230,16 +230,16 @@ past:
   -
     date: 2024-04-23
     title: Multilingual Bias and Fact Checking
-    slides: http://mt-class.org/jhu-multilingual/slides/multilingual_TTS.pdf
+    slides: https://livejohnshopkins-my.sharepoint.com/:p:/g/personal/kmurra50_jh_edu/EXMfRs_G2ERBpkwN-1Jht-gBi1pISG-Dpk-wPuQKwQxhQA?e=ELlSIK
     reading:
       -
-        author: Oord et al. (2016)
-        title: WaveNet A Generative Model for Raw Audio
-        url: https://arxiv.org/pdf/1609.03499.pdf
+        author: Gupta and Srikumar (2021)
+        title: X-FACT A New Benchmark Dataset for Multilingual Fact Checking
+        url: https://aclanthology.org/2021.acl-short.86.pdf
   -
     date: 2024-04-25
     title: Putting It All Together
     slides: http://mt-class.org/jhu-multilingual/slides/multilingual_putting_it_all_together.pdf
   -
-    date: 2024-04-27
+    date: 2024-04-30
     title: Final Project Presentations
